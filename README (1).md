@@ -17,7 +17,7 @@
 
 # 3 About the data #
 * [I94 Immigration Data](https://www.trade.gov/national-travel-and-tourism-office): This data comes from the US National Tourism and Trade Office.
-* [World Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?resource=download): This dataset came from Kaggle.
+* [World Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?resource=download): This dataset came from Kaggle (The file is too big. Thus, don't upload in the repo. Can be downloaded from Kaggle directly).
 * [U.S. City Demographic Data](https://public.opendatasoft.com/explore/dataset/us-cities-demographics/export/): This data comes from OpenSoft.
 * [Airport Code Table](https://datahub.io/core/airport-codes#pandas): This is a simple table of airport codes and corresponding cities. 
 <br >
